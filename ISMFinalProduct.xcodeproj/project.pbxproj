@@ -16,6 +16,7 @@
 		1821926727BF528700D8BE30 /* ISMFinalProductTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1821926627BF528700D8BE30 /* ISMFinalProductTests.swift */; };
 		1821927127BF528800D8BE30 /* ISMFinalProductUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1821927027BF528800D8BE30 /* ISMFinalProductUITests.swift */; };
 		1821927327BF528800D8BE30 /* ISMFinalProductUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1821927227BF528800D8BE30 /* ISMFinalProductUITestsLaunchTests.swift */; };
+		18817ADB27DC3B590070BAB7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18817ADA27DC3B590070BAB7 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1821926C27BF528800D8BE30 /* ISMFinalProductUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ISMFinalProductUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1821927027BF528800D8BE30 /* ISMFinalProductUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISMFinalProductUITests.swift; sourceTree = "<group>"; };
 		1821927227BF528800D8BE30 /* ISMFinalProductUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ISMFinalProductUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18817ADA27DC3B590070BAB7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				1821924F27BF528200D8BE30 /* AppDelegate.swift */,
 				1821925127BF528200D8BE30 /* SceneDelegate.swift */,
 				1821925327BF528200D8BE30 /* TitleViewController.swift */,
+				18817ADA27DC3B590070BAB7 /* LoginViewController.swift */,
 				1821925527BF528200D8BE30 /* Main.storyboard */,
 				1821925827BF528700D8BE30 /* Assets.xcassets */,
 				1821925A27BF528700D8BE30 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18817ADB27DC3B590070BAB7 /* LoginViewController.swift in Sources */,
 				1821925427BF528200D8BE30 /* TitleViewController.swift in Sources */,
 				1821925027BF528200D8BE30 /* AppDelegate.swift in Sources */,
 				1821925227BF528200D8BE30 /* SceneDelegate.swift in Sources */,
